@@ -19,7 +19,7 @@ Hi, I'm Bindu!
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 📊 GITHUB STATUS:
+## 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bindu519&show_icons=true&theme=tokyonight)
 ### 💻 Most Used Languages
