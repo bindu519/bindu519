@@ -6,7 +6,7 @@ Hi, I'm Bindu!
 - 🤖 Exploring AI/ML through academic projects and internships
 - 💡 Building projects to strengthen my practical and problem-solving skills
 - 🌱 Always learning and exploring new technologies## Hi there 👋
-## 💻 Tech Stack:
+
 
 ## 💻 Tech Stack:
 
